@@ -14,7 +14,7 @@ Backend: Python, Flask, PostgreSQL, SQLAlchemy
 
 Frontend: Javascript, AngularJS, jQuery, AJAX, HTML5, CSS3, Bootstrap
 
-APIs: Edamam, Stripe, Google Maps Javascript & Geocoder
+APIs: Edamam, Stripe, Google Maps Javascript and Geocoder
 
 ## Features
 
